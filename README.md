@@ -3,8 +3,8 @@ Mata Kuliah
 Pemrograman Berorientasi Objek – Praktikum (INF2143)
 ________________________________________
 Identitas Mahasiswa
-•	Nama : Elvando Agustio Jhonny
-•	NIM : 2411102441056
+•	Nama : Radit Andrea Alfarrizi
+•	NIM : 2411102441167
 •	Kelas : C
 ________________________________________
 Deskripsi Proyek
