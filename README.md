@@ -56,4 +56,4 @@ ________________________________________
 Kesimpulan
 Praktikum ini menunjukkan bahwa integrasi multi komponen dengan arsitektur berlapis dan Dependency Injection menghasilkan aplikasi yang rapi, modular, dan siap dikembangkan. Aplikasi POS sederhana ini berhasil menggabungkan konsep OOP, DI, serta prinsip SOLID dalam satu sistem nyata.
 ________________________________________
-URL Repository GitHub: (diisi setelah upload)
+URL Repository GitHub: (https://github.com/elvandojhonny-source/praktikum-pbo-13)
